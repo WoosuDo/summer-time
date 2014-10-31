@@ -1,5 +1,6 @@
 /**
  * @author alteredq / http://alteredqualia.com/
+ * @re-author woosudo
  *
  * AudioObject
  *

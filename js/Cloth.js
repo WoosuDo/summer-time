@@ -1,5 +1,5 @@
 /*
- * Cloth Simulation using a relaxed constrains solver
+ * Cloth Simulation using a relaxed constrains solver!
  */
 
 // Suggested Readings

@@ -1,5 +1,5 @@
 /**
- * @author alteredq / http://alteredqualia.com/
+ * @author alteredq / http://alteredqualia.com/!
  */
 
 THREE.MD2Character = function () {

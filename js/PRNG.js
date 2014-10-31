@@ -1,4 +1,4 @@
-// Park-Miller-Carta Pseudo-Random Number Generator
+// Park-Miller-Carta Pseudo-Random Number Generator!
 // https://github.com/pnitsch/BitmapData.js/blob/master/js/BitmapData.js
 
 var PRNG = function () {

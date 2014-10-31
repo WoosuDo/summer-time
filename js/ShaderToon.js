@@ -1,6 +1,6 @@
 /**
  * @author mrdoob / http://mrdoob.com/
- * @author alteredq / http://alteredqualia.com/
+ * @author alteredq / http://alteredqualia.com/!
  *
  * ShaderToon currently contains:
  *

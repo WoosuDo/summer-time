@@ -1,5 +1,5 @@
 /**
- * @author alteredq / http://alteredqualia.com/
+ * @author alteredq / http://alteredqualia.com/!
  *
  * Port of greggman's ThreeD version of marching cubes to Three.js
  * http://webglsamples.googlecode.com/hg/blob/blob.html

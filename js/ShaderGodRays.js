@@ -1,5 +1,5 @@
 /**
- * @author huwb / http://huwbowles.com/
+ * @author huwb / http://huwbowles.com/!
  *
  * God-rays (crepuscular rays)
  *

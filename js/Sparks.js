@@ -1,7 +1,7 @@
 /*
  * @author zz85 (http://github.com/zz85 http://www.lab4games.net/zz85/blog)
  *
- * a simple to use javascript 3d particles system inspired by FliNT and Stardust
+ * a simple to use javascript! 3d particles system inspired by FliNT and Stardust
  * created with TWEEN.js and THREE.js
  *
  * for feature requests or bugs, please visit https://github.com/zz85/sparks.js

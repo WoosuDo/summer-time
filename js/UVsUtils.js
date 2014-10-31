@@ -1,5 +1,5 @@
 /*
- * @author gyuque / http://github.com/gyuque
+ * @author gyuque / http://github.com/gyuque!
  *
  * Cylinder Mapping for ExtrudeGeometry
  *

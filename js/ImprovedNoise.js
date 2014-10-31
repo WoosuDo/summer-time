@@ -1,4 +1,4 @@
-// http://mrl.nyu.edu/~perlin/noise/
+// http://mrl.nyu.edu/~perlin/noise/!
 
 var ImprovedNoise = function () {
 
