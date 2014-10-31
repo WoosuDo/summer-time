@@ -1,10 +1,18 @@
-meidan
+summer time :)
 ======
 
-Don't be so serious.  
-高端大气上档次，低调奢华有内涵。
+When I see your face
 
-Some clones:   
-* <a href=http://lulukeke1314.heroku.com> lulukeke1314.heroku.com</a>  Heart shaped <a href=https://github.com/gaohao/lalala> src </a>
+There's not a thing that I would change
 
-File me a pull request to add your example here.  
+Cause you're amazing
+
+Just the way you are
+
+And when you smile
+
+The whole world stops and stares for a while
+
+Cause girl you're amazing
+
+Just the way you are
